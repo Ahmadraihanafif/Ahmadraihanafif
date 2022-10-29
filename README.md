@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently study on STT Terpadu Nurul Fikri
 - 🌱 I'm Currently still learning programming language
-- ⚡ Fun fact: I love U 😁
+- ⚡ Fun fact: hello world; 😁
 
 ### 🧰 Languages and Tools I've Learned :
 
